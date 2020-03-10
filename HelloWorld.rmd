@@ -1,0 +1,7 @@
+---
+title: "HelloWorld"
+output: pdf_document
+---
+## This is a markdown file
+Push the document to the datasciencecoursera repo I created on Github
+[datasciencecoursera](https://github.com/Hyeji-Jo/datasciencecoursera.git)
